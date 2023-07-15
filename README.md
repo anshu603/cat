@@ -1,2 +1,2 @@
 # cat
-cat repo
+cat repo for git commands demonstration
